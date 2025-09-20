@@ -2,4 +2,4 @@
 
 CS concepts and other stuff I was intrested in, presented as static pages ment for browser.
 
-live at: https://brtek007.github.io/browser-demos/
+live at: https://brtkkndrl.github.io/browser-demos/
